@@ -1,0 +1,6 @@
+{
+    "config":{        
+        "KEY_1" : "VALUE 1",
+        "KEY_2" : "VALUE 2"
+    }
+}

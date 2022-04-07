@@ -1,0 +1,12 @@
+*.pyc
+*.swp
+*.tflite
+*.score
+License-Plate-Detection
+speech_recognition
+testData
+gps
+tmp/*
+tests
+test.py
+test2.py
